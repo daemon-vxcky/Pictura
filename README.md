@@ -1,2 +1,3 @@
 # Pictura
-A text to image generator.
+
+Pictura is a text to image generation AI tool.
